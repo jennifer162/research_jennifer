@@ -1,2 +1,8 @@
 # research_jennifer
-research 1
+research 
+<h1> Potential Speech Disorders</h1>
+<li><ol>autism</ol>
+<ol>parkinsons</ol>
+<ol>aphasia</ol>
+<ol>Dysarthria</ol>
+<ol>Apraxia</ol></li>
